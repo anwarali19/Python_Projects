@@ -1,1 +1,17 @@
 
+Encrypt Excel selected columns dynamically
+Decrypt Excel selected columns dynamically
+Choose Excel file
+Multi-select dropdown for columns
+Encryption key input
+Same key required for decryption
+Generate encrypted/decrypted Excel output
+
+Before I share the full production-ready Python code, I want to confirm one important thing because it affects the encryption logic:
+
+Which encryption do you want?
+Option 1 — Strong Encryption (Recommended)
+Uses AES/Fernet encryption
+Highly secure
+Same key required for decryption
+Encrypted text looks like:
